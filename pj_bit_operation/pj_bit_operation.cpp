@@ -4,6 +4,9 @@
 ^ // поразрядное исключающее ИЛИ
 << // сдвиг влево
 >> // сдвиг вправо
+
+[Источник](https://graphics.stanford.edu/~seander/bithacks.html)
+
 */
 #include <iostream>
 #include <cstdint>
